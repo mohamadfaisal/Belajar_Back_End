@@ -1,2 +1,2 @@
-# Belajar_Back_End
-Repository Belajar Back End Dev
+# Belajar_Front_End
+Repository Belajar Front End Development
